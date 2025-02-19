@@ -51,5 +51,4 @@ The goal is to make mathematical set theory accessible to everyone by providing 
 
 ## 🤝 Contribution
 
-I hope that everyone finds this project useful for understanding number sets and operations. Contributions, suggestions, and improvements are welcome! 🎉😊
-
+I hope that everyone finds this project useful for understanding number sets and operations. Contributions, suggestions, and improvements are welcome! 🎉
